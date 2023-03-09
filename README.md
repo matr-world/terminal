@@ -1,7 +1,7 @@
 # The Terminal
 A universe of useful UIs and Solana utilties, facilitated by [Matr World](https://twitter.com/matr_world), made possible by the community.
 
-## Hand Tight
+## Hang Tight
 We are getting some stuff ready, in the meantime, follow matr-world on GitHub, star, and fork so you're ready to work on it.
 
 LFBuild! Here's the prototype. This is an older mockup but the design still applies. All of these buttons on the home screen will be community made apps.
